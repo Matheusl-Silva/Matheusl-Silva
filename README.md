@@ -26,6 +26,6 @@ Sou Estudante de programação, iniciante e buscando sempre aprender cada vez ma
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuzin30&show_icons=false&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Matheuzin30&show_icons=true&show_icons=false&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuzin30&show_icons=false&theme=tokyonight&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Matheuzin30&show_icons=true&show_icons=false&theme=tokyonight&count_private=true" />
 </div>
