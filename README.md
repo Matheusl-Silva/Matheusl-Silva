@@ -12,7 +12,7 @@
 Sou Estudante de programação, iniciante e buscando sempre aprender cada vez mais 😁
 
 - 📚 Estudante 
-- ❤ Fã de C#
+- ❤ Aprendendo C#
 - 👩‍💻 Buscando Aprender Cada Vez mais
 
 <div>
