@@ -29,6 +29,8 @@ Sou Estudante de programação, iniciante e buscando sempre aprender cada vez ma
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuzin30&show_icons=false&theme=tokyonight&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Matheuzin30&show_icons=true&show_icons=false&theme=tokyonight&count_private=true" />
   
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Matheuzin30/count.svg" /></p>  
   
+![snake gif](https://github.com/Matheuzin30/Formandodev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
