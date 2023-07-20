@@ -31,6 +31,5 @@ Sou Estudante de programação, iniciante e buscando sempre aprender cada vez ma
   
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Matheuzin30/count.svg" /></p>  
   
-![snake gif](https://github.com/Matheuzin30/Matheuzin30/blob/output/github-contribution-grid-snake.svg)
   
 </div>
