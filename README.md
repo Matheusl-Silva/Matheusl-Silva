@@ -1,36 +1,60 @@
-<img src = "coding.gif" width = "325px" align = "right">
+## Olá, meu nome é Matheus!
 
-# Seja Bem vindo ao Meu Perfil 😎!
-  <div id="badges">
-  <a href = "https://github.com/Matheuzin30">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Matheuzin30&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuzin30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuzin30&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Matheuzin30&theme=darkhub&no-frame=true&no-bg=true"
+    />
   </a>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-</div>
-
-Sou Estudante de programação, iniciante e buscando sempre aprender cada vez mais 😁
-
-- 📚 Estudante 
-- ❤ Aprendendo C#
-- 👩‍💻 Buscando Aprender Cada Vez mais
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-</div>
+</p>
 
 ---
 
-
-<div align = "left">
-  
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuzin30&show_icons=false&theme=tokyonight&count_private=true" />
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Matheuzin30&show_icons=true&show_icons=false&theme=tokyonight&count_private=true" />
-  
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Matheuzin30/count.svg" /></p>  
-
-![snake gif](https://github.com/Matheuzin30/Matheuzin30/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Matheuzin30/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
