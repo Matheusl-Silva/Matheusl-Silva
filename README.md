@@ -58,4 +58,4 @@
   />
 </p>
 
-![snake gif](https://github.com/Matheuzin30/Matheuzin30/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Matheuzin30/Matheuzin30/blob/output/github-contribution-grid-snake.svg)
