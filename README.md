@@ -1,5 +1,10 @@
 # Olá! 👋 Eu sou Matheus Silva
 
+
+<div align="center">
+  <h3> "Ora et Labora" </h3>
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;Java+%7C+PHP+%7C+JavaScript;C%23+%7C+Delphi;Sempre+evoluindo" alt="Typing SVG" />
 </div>
@@ -44,25 +49,4 @@ Sou um (quase)desenvolvedor backend. Trabalho principalmente com Java, PHP, Java
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheusl-Silva&theme=radical" alt="GitHub Streak" />
-</div>
-
-## 🤝 Vamos nos conectar?
-
-<div align="center">
-  <a href="https://linkedin.com/in/matheus-silva-241b8a276" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:matleandrosilva@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matheusl-Silva&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
-
-<div align="center">
-  <h3> "Ora et Labora" </h3>
 </div>
