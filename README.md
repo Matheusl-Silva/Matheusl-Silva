@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um (quase)desenvolvedor backend. Trabalho principalmente com Java, PHP, JavaScript e Delphi.
+Sou um desenvolvedor backend. Trabalho principalmente com Java, PHP, JavaScript e Delphi.
 
 - 🔭 Atualmente trabalhando como **Analista de Suporte técnico*
 - 🌱 Aprendendo **novas tecnologias e frameworks**
