@@ -13,7 +13,7 @@
 
 Sou um desenvolvedor backend. Trabalho principalmente com Java, PHP, JavaScript e Delphi.
 
-- 🔭 Atualmente trabalhando como **Analista de Suporte técnico*
+- 🔭 Atualmente trabalhando como **Desenvolvedor BackEnd*
 - 🌱 Aprendendo **novas tecnologias e frameworks**
 - 📫 Como me encontrar: **matleandrosilva@gmail.com**
 
