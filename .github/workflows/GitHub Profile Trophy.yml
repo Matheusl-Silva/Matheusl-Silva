@@ -1,0 +1,38 @@
+name: GitHub Profile Trophy
+
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-trophy
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: ryo-ma/github-profile-trophy
+          path: trophy-src
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+      - name: Prepare output dir
+        run: mkdir -p trophy
+      - name: Render trophy SVG
+        working-directory: trophy-src
+        env:
+          PAT: ${{ secrets.PAT }}
+        run: |
+          printf 'GITHUB_TOKEN1=%s\nGITHUB_TOKEN2=%s\n' "$PAT" "$PAT" > .env
+          sed -i 's/noFrame = false/noFrame = true/' render_svg.ts
+          deno run --allow-net --allow-env --allow-write --allow-read \
+            render_svg.ts thomassolcia ../trophy/profile-trophy.svg radical
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add trophy/profile-trophy.svg
+          git diff --staged --quiet || git commit -m "chore: regenerate profile trophy"
+          git push
